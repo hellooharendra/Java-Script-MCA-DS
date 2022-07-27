@@ -11,7 +11,7 @@
 
 ## HERE WE ARE USING EXTERNAL JS.
 
-## HTMLCODE
+## HTML CODE
 ![Screenshot 2022-07-28 at 1 19 24 AM](https://user-images.githubusercontent.com/78723011/181360143-7b0b23ea-3f19-467c-83c8-7392ca01494b.png)
 ## JAVA SCRIPT CODE 
 
