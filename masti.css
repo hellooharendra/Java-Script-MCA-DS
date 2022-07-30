@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    margin-top: 50px;
+    padding: 5px;
+    text-align: center;
+    background-color: blue;
+    color: beige;
+}
+.butOn{
+    padding:10px;
+    border-radius: 10px;
+    color: white;
+background-color: blue;
+}
+.item{
+    margin-top: 600px;
+}
+
+.butOn:hover{
+    font-size: large;
+}
